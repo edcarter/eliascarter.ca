@@ -7,3 +7,6 @@
 ## Development
 * bundle exec jekyll serve --livereload
 * go to localhost:4000/ in web browser
+
+## Deployment
+* ./deploy.sh
