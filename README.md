@@ -1,4 +1,9 @@
 ## Setup
+* Install jekyll: https://jekyllrb.com/docs/installation/
+* Install aws cli: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
+* Install exiftool: https://exiftool.org/
+* Write deployment environment variables to .env file
 
-* Static website hosted within AWS S3 Bucket
-* Served by Cloudfront CDN
+## Development
+* bundle exec jekyll serve --livereload
+* go to localhost:4000/ in web browser
