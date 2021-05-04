@@ -4,7 +4,6 @@ title:  "The best starcraft remastered networking guide"
 date:   2021-04-29 12:00:00 -0700
 ---
 
-## Intro
 Lately I have become more interested in playing and watching Starcraft Remastered. Since I was 6 years old I have been playing and figuring out the networking of online games. Command and Conquer: Tiberian Sun and Red Alert were two staples back in the day -- over 20 years later I'm still playing games from the 90s.
 
 Recently, I booted up Starcraft Remastered after a year or two hiatus, but to my surprise I was faced with this:
