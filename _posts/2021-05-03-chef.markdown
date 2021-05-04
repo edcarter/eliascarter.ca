@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Watching the world go by"
+date:   2021-05-03 12:00:00 -0700
+tags: chef
+---
+
+![cat](/assets/IMG_0924.JPEG)
