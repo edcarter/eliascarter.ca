@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sleeping in the laundry"
+date:   2021-05-05 12:00:00 -0700
+tags: chef
+---
+
+![cat](/assets/IMG_1062.JPEG)
