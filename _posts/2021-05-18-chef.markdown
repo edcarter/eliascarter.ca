@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Stop working and pay attention to me!"
+date:   2021-05-18 12:00:00 -0700
+tags: chef
+---
+
+![cat](/assets/CHEF01.JPEG)
