@@ -12,7 +12,7 @@
 set -ex
 
 # Strip all exif data off of assets
-exiftool -m -all= assets/*
+exiftool -overwrite_original_in_place -m -all= assets/*
 
 # Build jekyll project
 jekyll build
