@@ -12,10 +12,10 @@
 set -ex
 
 # Strip all exif data off of assets
-exiftool -overwrite_original_in_place -m -all= assets/*
+#exiftool -overwrite_original_in_place -m -all= assets/*
 
 # Build jekyll project
-jekyll build
+bundle exec jekyll build
 
 # Install aws cli from here: https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
 source .env
