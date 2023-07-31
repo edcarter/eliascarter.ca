@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Elias Carter. I am a professional software engineer with an interest in Linux systems programming and OS primitives (namespaces, cgroups, threads, shared memory, networking); data intensive applications; network security and security tenable to users; and aiding the human aspect of development through ergonomic tools, standards, culture, and blameless root cause analysis.
+My name is Elias Carter. I am a software engineer with an interest in Linux systems programming and OS primitives (namespaces, cgroups, threads, shared memory, networking); data intensive applications; network security and security tenable to users; and aiding the human aspect of development through ergonomic tools, standards, culture, and blameless root cause analysis.
 
 I created this blog to improve my writing skills as well as share with the technical community some hard learned lessons discovered through my work as well as recreational activity.
 
